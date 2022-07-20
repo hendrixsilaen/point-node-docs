@@ -1,7 +1,7 @@
 # Point.RED | NodeJS Server
 
 ## Requirements before installation
-1.  You already setup point project in your machine
+1.  You already setup point project (https://github.com/point-red/point) in your machine 
 2.  The point project database is already available
 
 ## Installation
@@ -124,4 +124,6 @@
     ```
     yarn run dev
     ```
+
+9.  Congratulation, now you can work with point-node project 🚀🚀🚀
 
