@@ -20,12 +20,12 @@
     
     install node for specific version
     ```
-    nvm install 16.16.0
+    nvm install 14.19.0
     ```
     
     use the installed node
     ```
-    nvm use 16.16.0
+    nvm use 14.19.0
     ```
 
     you can check the node version using this command
@@ -95,7 +95,7 @@
 
     make sure you use installed node version
     ```
-    nvm use 16.0.0
+    nvm use 14.19.0
     ```
 
     install the dependecies
